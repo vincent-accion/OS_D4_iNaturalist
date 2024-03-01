@@ -9,5 +9,7 @@ correlation_analysis.py is was used to produce fig2. and is graphical way to see
 -------
 
 article_data.csv is the Brown&Al data.
+
 inat_data.csv is the iNaturalist data from 2003-2016
+
 inat_data_filtered_17-23.csv is the iNaturalist data from 2017-2022  
